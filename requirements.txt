@@ -1,0 +1,8 @@
+pandas_bokeh==0.4.2
+numpy
+seaborn
+matplotlib
+streamlit
+pandas
+bokeh
+scikit-learn
