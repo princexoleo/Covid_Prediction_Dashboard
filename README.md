@@ -1,1 +1,1 @@
-"# Covid_Prediction_Dashboard" 
+# Covid Prediction Dashboard
