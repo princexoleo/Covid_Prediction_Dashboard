@@ -29,8 +29,8 @@ def main():
     st.sidebar.image("https://s27389.pcdn.co/wp-content/uploads/2019/12/top-5-data-science-strategy-predictions-2020-1024x440.jpeg",use_column_width=True)
     st.sidebar.markdown('# COVID-19 Dashboard')
     page = st.sidebar.selectbox("Choose a page", ['Homepage', 'Top 10'])
-    st.sidebar.markdown('Author: [Eduardo Muñoz](https://www.linkedin.com/in/eduardo-mu%C3%B1oz-lorenzo-14144a144/)')
-    st.sidebar.markdown('GitHub Repo: [Link](https://github.com/emunozlorenzo/Deploying-Streamlit-with-Heroku)')
+    st.sidebar.markdown('Author: [Mazharul islam Leon](https://scholar.google.com/citations?user=UsoRY-QAAAAJ&hl=en)')
+    st.sidebar.markdown('GitHub Repo: [Link](https://github.com/princexoleo/Covid_Prediction_Dashboard)')
     
     if page == 'Homepage':
         # Front Image
