@@ -1,4 +1,10 @@
-# Covid Prediction Dashboard For Bangladesh
+# Covid Prediction Dashboard Using Machine Learning Algorithms
+
+![alt text](http://url/to/img.png)
+
+![Prediction Graph Using Linear Regression](http://url/to/img.png)
+
+
 
 
 Original Paper
