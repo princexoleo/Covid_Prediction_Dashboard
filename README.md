@@ -1,8 +1,8 @@
 # Covid Prediction Dashboard Using Machine Learning Algorithms
 
-![alt text](http://url/to/img.png)
+![Overview of COVID Cases](hhttps://github.com/princexoleo/Covid_Prediction_Dashboard/blob/main/covid_pred_img_1.PNG)
 
-![Prediction Graph Using Linear Regression](http://url/to/img.png)
+![Prediction Graph Using Linear Regression](https://github.com/princexoleo/Covid_Prediction_Dashboard/blob/main/linear_model_pred.png)
 
 
 
